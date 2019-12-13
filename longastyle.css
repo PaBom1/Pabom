@@ -1,0 +1,126 @@
+@charset "UTF-8";
+/* CSS Document */
+
+nav{
+	background-color:#EFA132;
+	float: none;
+  	position: relative;
+	justify-content: center;
+	text-align: center;
+	margin-bottom: 30px;
+}
+.topmain{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+	margin-bottom: 20px;
+	width: 100%;
+	height: auto;
+	max-width:12%;
+	margin-top: 20px;
+}
+a:hover{
+	color: #0F5C80;
+}
+.overall{
+	font-family: Gobold;
+	text-decoration:none;
+	font-size: 18pt;
+	color: #FFFFFF;
+}
+.mright{
+	margin-left: 30px;
+}
+.mleft{
+	margin-right: 30px;
+	color: #0F5C80;
+}
+
+
+
+h1{
+	font-family: Gobold;
+	margin-bottom: 30px;
+	font-size: 40pt;
+	text-align: center;
+}
+h2{
+	font-family: Gobold;
+	margin-top: 58px;
+	font-size: 28pt;
+	color:#4DB7E9;
+}
+h3{
+	color: #EFA132;
+	font-family: Gobold;
+	font-size: 20pt;
+	text-decoration: underline;
+}
+ul{
+	font-family:'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+	font-size: 16pt;
+}
+p{
+	font-family:'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+	font-size: 16pt;
+}
+.info{
+	margin-top: 30px;
+	margin-left: 60px;
+	height:auto;
+	width: 40%;
+	margin-bottom: 700px;
+}
+.under{
+	margin-bottom: 50px;
+	margin-top: 50px;
+}
+.algo{
+	margin-bottom: 50px;
+}
+.holes{
+	display: block;
+	max-width:640px;
+	float: right;
+	margin-right:60px;
+	margin-top: 0px;
+}
+
+
+
+
+.final{
+	display: block;
+	width: 50%;
+	position: inherit;
+	height: 120px;
+	background: #EFA132;
+	bottom: 0px;
+	float: left;
+}
+.creater{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 13pt;
+	margin-left: 60px;
+}
+ul{
+	list-style-type: none;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+.left{
+	right: 0;
+	display: block;
+	float: right;
+	width: 50%;
+	background: #6A4108;
+	height: 120px;
+	bottom: 0;
+}
+.location{
+	color: white;
+	font-family: Gobold;
+	font-size: 18pt;
+	text-align: center;
+	margin-top: 50px;
+}

@@ -1,0 +1,115 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.wholes{
+	margin-top: 50px;
+}
+.topmain{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+	margin-bottom: 20px;
+	max-width:12%;
+    width:auto;
+	margin-top:20px;
+}
+.wholes{
+	margin-top: 30px;
+}
+.glads{
+	display: block;
+	float: right;
+	margin-left: 30px;
+	margin-top: 0px;
+}
+h1{
+	color: #EFA132;
+	font-family: Gobold;
+	font-size: 20pt;
+	text-decoration: underline;
+}
+.bods{
+	margin-right: 60px;
+	margin-top: 0;
+	margin-bottom: 50px;
+	width: 740px;
+	height: auto;
+	font-size:18pt;
+	font-family:'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+}
+a{
+	font-family:Gobold;
+	text-decoration:none;
+	font-size: 18pt;
+	color: #FFFFFF;
+}
+
+.mleft{
+	margin-right: 50px;
+}
+.mright{
+	margin-left: 50px;
+	color: #0F5C80;
+}
+
+
+a:hover{
+	color: #0F5C80;
+}
+nav{
+	background-color:#EFA132;
+	float: none;
+  	position: relative;
+	justify-content: center;
+	text-align: center;
+	margin-bottom: 30px;
+}
+.info{
+	margin-left: 60px;
+	float:left;
+	height:auto;
+	width: 35%;
+	margin-top: 30px;
+}
+body{
+	padding-bottom: 60px;
+}
+
+
+
+
+.final{
+	display: block;
+	width: 50%;
+	height: 93px;
+	background: #EFA132;
+	position: absolute;
+	bottom: 0;
+	float: left;
+}
+.creater{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 13pt;
+	margin-left: 60px;
+}
+ul{
+	list-style-type: none;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+.left{
+	display: block;
+	width: 50%;
+	background: #6A4108;
+	height: 93px;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+.location{
+	color: white;
+	font-family: Gobold;
+	font-size: 18pt;
+	text-align: center;
+	margin-top: 33px;
+}

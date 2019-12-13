@@ -1,0 +1,111 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.topmain{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+	margin-bottom: 20px;
+	width: 100%;
+	height: auto;
+	max-width:12%;
+	margin-top: 20px;
+}
+h1{
+	text-align: center;
+	position: relative;
+	font-family: Gobold;
+	margin-bottom: 40px;
+	font-size: 40pt;
+}
+
+.overall{
+	font-family:Gobold;
+	text-decoration:none;
+	font-size: 18pt;
+	color: #FFFFFF;
+	
+}
+
+a:hover{
+	color: #0F5C80;
+}
+nav{
+	background-color:#4DB7E9;
+	float: none;
+  	position: relative;
+	justify-content: center;
+	text-align: center;
+	margin-bottom: 30px;
+}
+.mright{
+	margin-left: 30px;
+}
+.mleft{
+	margin-right: 30px;
+	color: #0F5C80;
+}
+
+/* For the genre buttons*/
+.button1{
+	width: 190px;
+	display: inline-table;
+	font-family:'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+	font-size: 17pt;
+	text-decoration: none;
+	color: white;
+	height: 40px;
+}
+div{
+	background-color: #EFA132;
+	justify-content: space-around;
+}
+section{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.button1 {
+	padding-left: 60px;
+	padding-top: 10px;
+}
+
+
+
+
+.final{
+	display: block;
+	float: left;
+	position: absolute;
+	width: 50%;
+	height: 93px;
+	background: #EFA132;
+	bottom: 0;
+}
+.creater{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 13pt;
+	margin-left: 60px;
+}
+ul{
+	list-style-type: none;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+.left{
+	display: block;
+	position: absolute;
+	width: 50%;
+	background: #6A4108;
+	height: 93px;
+	bottom: 0;
+	right: 0;
+}
+.location{
+	color: white;
+	font-family: Gobold;
+	font-size: 18pt;
+	text-align: center;
+	margin-top: 33px;
+}
